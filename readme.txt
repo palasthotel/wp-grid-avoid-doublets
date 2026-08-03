@@ -5,8 +5,8 @@ Tags: grid, landingpage, editor, admin, page, containerist, extension
 Requires at least: 4.0
 Tested up to: 4.7.3
 Stable tag: 1.1.2
-License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl
+License: GPL-3.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Avoid doublets API while rendering grids
 
