@@ -1,0 +1,16 @@
+name: PR
+
+on:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    uses: palasthotel/github-workflows/.github/workflows/wp-plugin-pr.yml@v1
+    with:
+      slug: grid-avoid-doublets
+      dev-plugin-name: Grid Avoid Doublets - DEV
