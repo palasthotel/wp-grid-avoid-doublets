@@ -1,9 +1,10 @@
 === Grid Avoid Doublets ===
-Contributors: palasthotel, edwardbock, mkernel
+Contributors: palasthotel, janaeggebrecht, edwardbock, mkernel
 Donate link: http://palasthotel.de/
 Tags: grid, landingpage, editor, admin, page, containerist, extension
 Requires at least: 4.0
-Tested up to: 4.7.3
+Requires PHP: 7.0
+Tested up to: 7.1.2
 Stable tag: 1.1.2
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
