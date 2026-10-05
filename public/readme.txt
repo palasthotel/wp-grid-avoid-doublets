@@ -5,7 +5,7 @@ Tags: grid, landingpage, editor, admin, page, containerist, extension
 Requires at least: 4.0
 Requires PHP: 7.0
 Tested up to: 7.1
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -30,6 +30,10 @@ Avoid doublets API while rendering grids
 
 
 == Changelog ==
+
+= 1.1.3 =
+**Bug Fixes**
+* prevent plugin file from being called directly (f2b4a90)
 
 = 1.1.2 =
 * use grid hook for modifying posts list box query args
