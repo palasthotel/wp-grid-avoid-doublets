@@ -9,7 +9,7 @@
  * Author URI: https://palasthotel.de
  * Requires at least: 4.0
  * Requires PHP: 7.0
- * Tested up to: 7.1.2
+ * Tested up to: 7.1
  * License: GPL-3.0-or-later
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * @copyright Copyright (c) 2014, Palasthotel
